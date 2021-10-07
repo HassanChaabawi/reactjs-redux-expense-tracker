@@ -76,8 +76,7 @@ label {
   margin: 10px 0;
 }
 
-input[type="text"],
-input[type="number"] {
+input {
   border: 1px solid #dedede;
   border-radius: 2px;
   display: block;

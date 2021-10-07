@@ -6,6 +6,7 @@ export default function Transaction({ transaction, deleteTransaction }) {
     <li className={transaction.amount >= 0 ? "plus" : "minus"}>
       {transaction.text}
       <span>
+        <span style={{ marginRight: 8 }}>{transaction.date}</span>
         {sign}${Math.abs(transaction.amount)}
       </span>
       <button
