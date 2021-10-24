@@ -1,4 +1,4 @@
-An expense tracker created with reactjs and redux persist from a youtube tutorial: https://www.skillshare.com/r/user/hassanchaabawi
+An expense tracker created with reactjs and redux persist from a skillshare tutorial: https://www.skillshare.com/r/user/hassanchaabawi
 
 1 - run "npm install"
 
